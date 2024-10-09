@@ -1,0 +1,90 @@
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\Tarefa Testes.dll.config
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\Tarefa Testes.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\Tarefa Testes.pdb
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\csc.exe
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\csc.exe.config
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\csc.rsp
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\csi.exe
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\csi.exe.config
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\csi.rsp
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.AppContext.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Console.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.IO.Compression.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Net.Http.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.ValueTuple.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\vbc.exe
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\vbc.exe.config
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\vbc.rsp
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\VBCSCompiler.exe
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\Antlr3.Runtime.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\EntityFramework.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\EntityFramework.SqlServer.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\Newtonsoft.Json.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.Helpers.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.Mvc.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.Optimization.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.Razor.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.WebPages.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.WebPages.Razor.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\WebGrease.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\EntityFramework.xml
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\EntityFramework.SqlServer.xml
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.Helpers.xml
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.Mvc.xml
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.Optimization.xml
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.Razor.xml
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.WebPages.xml
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\System.Web.WebPages.Razor.xml
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\Newtonsoft.Json.xml
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\Antlr3.Runtime.pdb
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\obj\Debug\Tarefa Testes.csproj.AssemblyReference.cache
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\obj\Debug\Tarefa Testes.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\obj\Debug\Tarefa T.F9816A03.Up2Date
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\obj\Debug\Tarefa Testes.dll
+C:\Users\tarde.cetafest\Documents\saep\Tarefa Testes\Tarefa Testes\obj\Debug\Tarefa Testes.pdb

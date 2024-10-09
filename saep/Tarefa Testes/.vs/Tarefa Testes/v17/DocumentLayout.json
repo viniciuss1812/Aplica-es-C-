@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarde.cetafest\\Documents\\saep\\Tarefa Testes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32A9EF55-7E8D-4BA9-8AF7-9A446B449820}|Tarefa Testes\\Tarefa Testes.csproj|c:\\users\\tarde.cetafest\\documents\\saep\\tarefa testes\\tarefa testes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32A9EF55-7E8D-4BA9-8AF7-9A446B449820}|Tarefa Testes\\Tarefa Testes.csproj|solutionrelative:tarefa testes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A9EF55-7E8D-4BA9-8AF7-9A446B449820}|Tarefa Testes\\Tarefa Testes.csproj|c:\\users\\tarde.cetafest\\documents\\saep\\tarefa testes\\tarefa testes\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A9EF55-7E8D-4BA9-8AF7-9A446B449820}|Tarefa Testes\\Tarefa Testes.csproj|solutionrelative:tarefa testes\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A9EF55-7E8D-4BA9-8AF7-9A446B449820}|Tarefa Testes\\Tarefa Testes.csproj|c:\\users\\tarde.cetafest\\documents\\saep\\tarefa testes\\tarefa testes\\controllers\\statustarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A9EF55-7E8D-4BA9-8AF7-9A446B449820}|Tarefa Testes\\Tarefa Testes.csproj|solutionrelative:tarefa testes\\controllers\\statustarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A9EF55-7E8D-4BA9-8AF7-9A446B449820}|Tarefa Testes\\Tarefa Testes.csproj|c:\\users\\tarde.cetafest\\documents\\saep\\tarefa testes\\tarefa testes\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A9EF55-7E8D-4BA9-8AF7-9A446B449820}|Tarefa Testes\\Tarefa Testes.csproj|solutionrelative:tarefa testes\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A9EF55-7E8D-4BA9-8AF7-9A446B449820}|Tarefa Testes\\Tarefa Testes.csproj|c:\\users\\tarde.cetafest\\documents\\saep\\tarefa testes\\tarefa testes\\models\\dbtarefas.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{32A9EF55-7E8D-4BA9-8AF7-9A446B449820}|Tarefa Testes\\Tarefa Testes.csproj|solutionrelative:tarefa testes\\models\\dbtarefas.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\saep\\Tarefa Testes\\Tarefa Testes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tarefa Testes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\saep\\Tarefa Testes\\Tarefa Testes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tarefa Testes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T18:55:06.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\saep\\Tarefa Testes\\Tarefa Testes\\Controllers\\TarefasController.cs",
+              "RelativeDocumentMoniker": "Tarefa Testes\\Controllers\\TarefasController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\saep\\Tarefa Testes\\Tarefa Testes\\Controllers\\TarefasController.cs",
+              "RelativeToolTip": "Tarefa Testes\\Controllers\\TarefasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:52:47.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusTarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\saep\\Tarefa Testes\\Tarefa Testes\\Controllers\\StatusTarefaController.cs",
+              "RelativeDocumentMoniker": "Tarefa Testes\\Controllers\\StatusTarefaController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\saep\\Tarefa Testes\\Tarefa Testes\\Controllers\\StatusTarefaController.cs",
+              "RelativeToolTip": "Tarefa Testes\\Controllers\\StatusTarefaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:51:40.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\saep\\Tarefa Testes\\Tarefa Testes\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Tarefa Testes\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\saep\\Tarefa Testes\\Tarefa Testes\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Tarefa Testes\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:00:41.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBTarefas.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\saep\\Tarefa Testes\\Tarefa Testes\\Models\\DBTarefas.edmx",
+              "RelativeDocumentMoniker": "Tarefa Testes\\Models\\DBTarefas.edmx",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\saep\\Tarefa Testes\\Tarefa Testes\\Models\\DBTarefas.edmx [Diagram1]",
+              "RelativeToolTip": "Tarefa Testes\\Models\\DBTarefas.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-09T17:58:19.968Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
